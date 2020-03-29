@@ -7,7 +7,7 @@
 
 Application developed during the **Rocketseat** omnistack 11 week.
 
-This application is intended to help NGOs find "Heroes" to help them in their cases.
+This application is intended to help ONGs find "Heroes" to help them in their cases.
 
 ### Platforms
 
