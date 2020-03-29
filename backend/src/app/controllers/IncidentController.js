@@ -1,4 +1,4 @@
-import connection from '../../database/connection';
+const connection = require('../../database/connection');
 
 class IncidentController {
   async index(req, res) {
@@ -60,4 +60,4 @@ class IncidentController {
   }
 }
 
-export default new IncidentController();
+module.exports = new IncidentController();
